@@ -1,6 +1,13 @@
 * {
   box-sizing: border-box;
 }
+body {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  line-height: 1.42;
+}
 
 body,
 html {
